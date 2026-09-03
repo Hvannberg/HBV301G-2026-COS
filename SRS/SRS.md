@@ -1,18 +1,38 @@
 # 📄 Software Requirements Specification (SRS)
+Cafeteria Ordering System 
 
 ## 1. Inngangur
 ### 1.1 Tilgangur
-Stutt lýsing á tilgangi kerfisins og hverju það á að skila.
+Meginmarkmið COS kerfisins er að með nýjum sjálfvirkum ferlum megi gera pantanir skilvirkari (hraðvirkari og með minni mannafla), og
+villufrírri. Markmið kerfisins er að veita notendum þjónustu til að panta 24/7 í staðinn fyrir frá 8-16. Í núverandi kerfi eyða starfmenn umtalsverðum tíma
+í að fara í mötuneytið, velja, panta, bíða eftir matnum og greiða fyrir hann. Að meðaltali tekur það um 65 mínútur. Sumir starfsmenn hringja inn pöntun í síma. Umtalsverðar birgðir fara til spillis.
+Þegar starfsmenn borða út í bæ tekur það allt að 90 mínútur.
 
 ### 1.2 Umfang og mörk kerfisins
 
-Lýsið í stuttu máli hvað fellur innan marka kerfisins og hvað fellur utan þeirra.
-Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
+**Innan umfangs (scope):**
+Þróun kerfisins nær til þess að gera starfsmönnum kleift að senda inn
+pantanir í mötuneyti og styðja starfsfólk mötuneytis við að afgreiða
+pantanir og senda beiðnir um afhendingu og útbúa matseðla.
+
+**Utan umfangs (scope):
+Í þessari útgáfu nær þróunin ekki til pantana frá utanaðkomandi
+veitingastöðum eða greiðslu með greiðslukorti.
+
+** Samhengi og mörk kerfisins: (context og system boundary)
+COS hefur samskipti við birgðakerfi og launakerfi. Aðrir þættir í
+samhengi kerfisins sem hafa áhrif á kröfur eru leiðbeiningar um
+næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
+á vinnustöðum og ferli sem lýsa afhendingu pantana.
+
+
+
 
 ### 1.3 Skilgreiningar
 | Hugtak | Skýring |
 |--------|---------|
-| SRS | Software Requirements Specification |
+| SRS | Software Requirements Specification|
+|        |         |
 
 
 ### 1.4 Tilvísanir
@@ -22,10 +42,18 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 
 ## 2. Almenn lýsing
 ### 2.1 Notendahópar
-- Lýsa helstu notendahópum kerfisins (t.d. notendur, stjórnendur).
+-  Starfsmenn velja af matseðli og panta matinn. Kerfið kannar hvort starfsmaður hafi heimilað frádrátt kostnaðar frá launum. Starfsmaður fær síðan matinn afhentan. Pöntunin fer fram á innra netinu. Stundum pantar starfsfólk mat fyrir viðburði fyrir
+   hópa starfsmanna og eða gesti
+-  Starfsfólk í mötuneyti afgreiðir pöntun úr kerfinu, eldar matinn, pakkar honum inn og sendir inn beiðni um afhendingu
+-  Sendlar fá beiðni um að afhenda pantanir. Sendlar ná í matinn úr mötuneyti og afhenda starfsmönnum
+-  Matreiðslufólk útbýr matseðla  og bjóða einnig upp á rétt dagsins. Ekki verður hægt að bjóða upp á alla rétti til að borða utan mötuneytis (take a way)
+
 
 ### 2.2 Viðskiptaávinningur
-- Hver er ávinningurinn fyrir fyrirtæki eða notendur?
+- Starfsmenn eyða minni tíma í að panta mat,greiða fyrir hann og fá hann afhentan.
+- Starfsfólk í mötuneyti eyðir minni tíma í að taka við pöntunum, t.d. í síma.
+- Minni sóun á matarbirgðum
+- Sendlar geta stytt tímann með því að safna saman pöntunum á deildir eða byggingar fyrirtækisins.
 
 ---
 
