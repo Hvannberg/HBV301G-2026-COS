@@ -15,7 +15,7 @@ Seinna mun kerfið þróast yfir í að geta pantað mat frá veitingastöðum.
 Notendur eru starfsmenn fyrirtækis, sendlar, matráðar / kokkar og annað starfsfólk mötuneytisins
 
 ### Stutt lýsing á innihaldi geymslunnar. 
-Er sýnislausn fyrir verkefni 1 í HBV301G Verkfræði kröfugreiningar við Háskóla Íslands. Þetta er kröfulýsing fyrir case study sem kemur með bókinni eftir Wiegers og Beatty (2013). 
+Er sýnislausn fyrir verkefni 1 í HBV301G Verkfræði kröfugreiningar, 2026 við Háskóla Íslands. Þetta er kröfulýsing fyrir case study sem kemur með bókinni eftir Wiegers og Beatty (2013). 
 Lausnin notar að mestu fyrirmyndina af case study úr viðauka C úr bókinni.  Repo-ið er búið til með template-inu [HBV301G-Verkefni1](https://github.com/Hvannberg/HBV301G-Verkefni1).
 
 ## Geymslan er í fjórum hlutum 
