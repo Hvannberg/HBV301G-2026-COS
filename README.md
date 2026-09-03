@@ -1,18 +1,42 @@
 # 📦 Verkefni #1 - Tegundir krafna og samhengi 
 
+
+
+### Heiti kerfis
+  Cafeteria Ordering System (COS)
+
+### Höfundur
+  Ebba Þóra Hvannberg
+
+### Stutt lýsing á kerfinu
+
+Pöntunarkerfið gerir starfsfólki fyrirtækis kleyft að panta mat úr mötuneyti og fá hann afhentan. 
+Seinna mun kerfið þróast yfir í að geta pantað mat frá veitingastöðum. 
+Notendur eru starfsmenn fyrirtækis, sendlar, matráðar / kokkar og annað starfsfólk mötuneytisins
+
+### Stutt lýsing á innihaldi geymslunnar. 
+Er sýnislausn fyrir verkefni 1 í HBV301G Verkfræði kröfugreiningar, 2026 við Háskóla Íslands. Þetta er kröfulýsing fyrir case study sem kemur með bókinni eftir Wiegers og Beatty (2013). 
+Lausnin notar að mestu fyrirmyndina af case study úr viðauka C úr bókinni.  Repo-ið er búið til með template-inu [HBV301G-Verkefni1](https://github.com/Hvannberg/HBV301G-Verkefni1).
+
+## Geymslan er í fjórum hlutum 
+- README, þessi skrá
+- SRS - Software Requirement Specifications. Þetta er mappa með SRS skránni og kröfunum sem eru skilgreindar fyrir COS kerfið.
+  Kröfurnar eru skráðar í mismunandi skrár eftir tegundum krafna. 
+- SDS - System Description Specification
+- Einnig er í þessari geymslu sniðmát fyrir lýsingu á vinnuferli. 
+
+### Project 
+
+Það er verkefni (project) tengt við þetta repository og þar sést framvinda einstaka verkliða (issues)
+
+
 <!-- Fyllið inn í þessa kafla áður en verkefninu er skilað 
 
-Heiti kerfis: 
-Höfundar: Nöfn nemenda 
-Stutt lýsing á kerfinu
-Stutt lýsing á innihaldi geymslunnar. 
-    - Lesendur eru viðskiptavinir og kaupendur, notendur, kerfishönnuðir, forritarar og prófarar. Einnig verkefnisstjórar og viðhaldsteymi. 
-
 Annars ráðið þið hvernig þið viljið lýsa geymslunni eða ná til lesenda 
--->
 
-<!-- Nemendur fjarlægi eftirfarandi eða setji sem comment áður en verkefni er skilað 
--->
+
+ Nemendur fjarlægi eftirfarandi eða setji sem comment áður en verkefni er skilað 
+
 
 ## Geymslan er í fjórum hlutum
 - README, þessi skrá
@@ -79,3 +103,5 @@ Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann
 Að lokinni rýni sameinar höfundur PR-ið (**merge**) við `main`.
 
 Ljúktu við aðra þætti verkefnisins eins og SDS og Vinnuferlið með sambærilegum hætti, þ.e. að skipta með ykkur verkum með issues, branches og PR 
+
+-->
