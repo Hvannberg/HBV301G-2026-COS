@@ -5,21 +5,25 @@
 
 Viðskiptakrafa lýsir viðskiptalegu markmiði fyrirtækis eða viðskiptavinar sem hugbúnaðarlausninni er ætlað að stuðla að.
 
-<!--
-Afritið sniðmátið hér fyrir neðan fyrir hverja viðskiptakröfu og gefið henni næsta lausa auðkenni: BREQ1, BREQ2, BREQ3, ... 
-Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requirements.md/#br1
 
 ## BREQ-1 
  
-## Titill: [Titill viðskiptakröfu]
+## Titill: Lækka kostnað vegna matarúrgangs í mötuneyti um 40% innan 6 mánaða
 
 ## 🧭 Lýsing
-> Hvert er markmið eða ávinningur sem verkefnið á að ná fyrir fyrirtækið?
+Markmiðið er að lækka kostnað vegna matar sem er hent í mötuneytinu
+um 40% innan sex mánaða frá fyrstu útgáfu kerfisins.
+
+Staðan árið 2013 var 33%. Markmiðið er undir 20% og
+viðbótarmarkmið er að ná hlutfallinu undir 15%.
+
+Mælingin byggir á gögnum úr birgðakerfi mötuneytisins.
 
 ## 🏢 Viðskiptalegt samhengi
-> Hvernig styður þessi krafa við stefnu, markmið eða rekstur?
+Krafan styður við markmið fyrirtækisins um að draga úr kostnaði
+vegna matarúrgangs og auka nýtingu birgða.
 
 ## 📌 Athugasemdir
-> Tengsl við aðrar kröfur, markmið eða hugmyndir
--->
+Krafan tengist öðrum viðskiptakröfum
+
 
