@@ -68,7 +68,7 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 ### 3.2 Kerfiskrafa
 | ID                              | Titill                 |
 |---------------------------------|------------------------|
-| [SR-1](system_requirement.md#sr-1) | [Titill á kerfiskröfu] |
+| [SR-1](system_requirement.md#sr-1) | Rafrænt pöntunar- og afgreiðsluferli máltíða |
 
 ### 3.3 Eiginleikar (Features)
 | ID                     | Titill                 |
