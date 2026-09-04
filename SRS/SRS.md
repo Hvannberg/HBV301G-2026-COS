@@ -34,7 +34,7 @@ Tilgreinið helstu samskipti kerfisins við umhverfi sitt.
 ### 3.1 Viðskiptakröfur
 | ID                                        | Titill                                                                  |
 |-------------------------------------------|-------------------------------------------------------------------------|
-| [BREQ-1](business_requirements.md#breq-1) | Lækka kostnað vegna matarúrgangs í mötuneyti um 40% innan 6 mánaða      |
+| [BREQ-1](business_requirements.md#breq-1) | Lækka rýrnun matarbirgða í mötuneyti um 40% innan 6 mánaða              |
 | [BREQ-2](business_requirements.md#breq-2) | Auka meðal raunvinnutíma starfsmanns sem notar mötuneytið um 15 mínútur |
 
 ### 3.2 Kerfiskrafa
