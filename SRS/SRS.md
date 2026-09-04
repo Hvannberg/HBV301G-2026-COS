@@ -73,7 +73,7 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 ### 3.3 Eiginleikar (Features)
 | ID                     | Titill                 |
 |------------------------|------------------------|
-| [F-1](feature.md#f-1)  | [Titill á eiginleika]  |
+| [F-1](feature.md#f-1)  | Panta og greiða fyrir máltíðir frá matseðli í mötuneyti  |
 | [F-2](feature.md#f-2)  | [Titill á eiginleika]  |
 | [F-3](feature.md#f-3)  | [Titill á eiginleika]  |
 
