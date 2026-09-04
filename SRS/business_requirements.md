@@ -7,16 +7,14 @@ Viðskiptakrafa lýsir viðskiptalegu markmiði fyrirtækis eða viðskiptavinar
 
 ## BREQ-1 
  
-## Titill: Lækka kostnað vegna matarúrgangs í mötuneyti um 40% innan 6 mánaða
+## Titill: Lækka rýrnun matarbirgða í mötuneyti um 40% innan 6 mánaða
 
 ## 🧭 Lýsing
-Markmiðið er að lækka kostnað vegna matar sem er hent í mötuneytinu
-um 40% innan sex mánaða frá fyrstu útgáfu kerfisins.
-
-Staðan árið 2013 var 33%. Markmiðið er undir 20% og
-viðbótarmarkmið er að ná hlutfallinu undir 15%.
-
-Mælingin byggir á gögnum úr birgðakerfi mötuneytisins.
+Árið 2013 nam rýrnun matarbirgða 33% af innkeyptum birgðum.
+Markmiðið er að lækka hlutfall rýrnunar í undir 20% innan sex mánaða
+frá fyrstu útgáfu kerfisins, sem samsvarar um 40% lækkun frá
+upphafsgildi. Viðbótarmarkmið er að ná hlutfallinu undir 15%.
+Mælingin byggir á skráningu í birgðakerfi mötuneytisins.
 
 ## 🏢 Viðskiptalegt samhengi
 Krafan styður við markmið fyrirtækisins um að draga úr kostnaði
@@ -26,8 +24,6 @@ vegna matarúrgangs og auka nýtingu birgða.
 Krafan tengist öðrum viðskiptakröfum
 
 
-Afritið sniðmátið hér fyrir neðan fyrir hverja viðskiptakröfu og gefið henni næsta lausa auðkenni: BREQ1, BREQ2, BREQ3, ... 
-Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requirements.md/#br1
 
 ## BREQ-2
  
