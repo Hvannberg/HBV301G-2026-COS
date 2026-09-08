@@ -1,18 +1,29 @@
 # Viðskiptareglur (Business Rules)
 
 Takmörkun sem þrengir valkosti hönnuða við gerð og þróun hugbúnaðarins.
-<!--
- 
-Afritið sniðmátið hér fyrir neðan fyrir hverja viðskiptareglu og gefið henni næsta lausa auðkenni: BR-1, BR-2, BR-3, ... 
-Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requirements.md/#br1
 
-## BRG-1
+<a id="brg-1"></a>
+## BRG-1 Verð pöntunar 
 
 ## 📜 Lýsing
-> Hver er reglan?
+Verð pöntunar er reiknað sem summa verðs hvers réttar margfölduðu með fjölda eininga sem pantaðar eru, að viðbættum virðisaukaskatti og afhendingargjaldi ef máltíð er afhent utan gjaldfrjálsa afhendingarsvæðisins.
 
 ## 🧠 Rökrétt samhengi
-> Af hverju er þessi regla til staðar? Hvaða áhrif hefur hún?
+bls. 624 í Wiegers og Beatty. Samsvarar BR-12 sem er reikniregla 
 
 ## 🔗 Tengsl við kröfur eða ferla
--->
+Tengist við [UR-1](user_requirement.md#ur-1) Panta máltíð.  Reglan ákvarðar hvernig heildarverð pöntunar er reiknað áður en pöntun er staðfest
+
+
+<a id="brg-2"></a>
+## BRG-2 Afhendingagluggi er 15 mínútur
+
+## 📜 Lýsing
+Afhendingagluggi er 15 mínútur og spannar hvert korter í klukkutímanum, t.d. 10-10:15, 10:15-10:30 o.s.frv.
+
+## 🧠 Rökrétt samhengi
+Tengist BR-1 í Wiegers og Beatty. 
+
+## 🔗 Tengsl við kröfur eða ferla
+Tengist  [UR-1](user_requirement.md#ur-1)  Panta máltíð og [FR-2](functional_requirement.md#fr-2)  *Velja afhendingu*. Reglan ákvarðar hvaða afhendingartímar standa starfsmanni til boða.
+
