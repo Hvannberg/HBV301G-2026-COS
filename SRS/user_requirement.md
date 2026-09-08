@@ -29,7 +29,6 @@ Starfsmaður þarf að geta breytt eða hætt við pöntun áður en máltíðin
 Uppruni úr UC-2 *Change Meal Order* og UC-3 *Cancel Meal Order* í COS Use Cases 
 Tengist [F-1](feature.md/F-1).
 
--
 
 ## UR-3 Skoða matseðil 
 
@@ -57,36 +56,28 @@ Uppruni úr UC-8 *Create a Menu* í COS Use Cases.
 Tengist [F-2](feature.md#f-2).
 
 
-<!--
 
-Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
-
-## UR-1
+## UR-5 Aðgangur að COS á innraneti 
 
 ## 👤 Notandi
-> Hvaða notendategund eða hópur hefur þessa þörf?
+Starfsmaður fyrirtækis 
 
 ## 🎯 Krafa
-> Hvað þarf notandinn að geta gert?
+Starfsmaður þarf að geta fengið aðgang að COS í gegnum innranet fyrirtækisins.
 
 ## 💬 Uppruni
-> Hvaðan kemur þessi notendaþörf, t.d. úr viðtali, athugun, eigin þekkingu á viðfangsefninu eða annarri heimild?
+Uppruni úr FE-6 *System Access* í COS Vision and Scope. Athugið að það er ekkert samsvarandi Use Case fyrir þessa notendakröfu í COS skjölum.
+Tengist [F-3](feature.md#f-3).
 
--->
 
-<!--
-
-Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
-
-## UR-1
+## UR-6 Aðgangur að COS af Internetinu
 
 ## 👤 Notandi
-> Hvaða notendategund eða hópur hefur þessa þörf?
+Starfsmaður fyrirtækis
 
 ## 🎯 Krafa
-> Hvað þarf notandinn að geta gert?
+Starfsmaður þarf að geta fengið aðgang að COS í gegnum Internetið utan fyrirtækisins.
 
 ## 💬 Uppruni
-> Hvaðan kemur þessi notendaþörf, t.d. úr viðtali, athugun, eigin þekkingu á viðfangsefninu eða annarri heimild?
-
--->
+Uppruni úr FE-6 *System Access* í COS Vision and Scope.  Athugið að það er ekkert samsvarandi Use Case fyrir þessa notendakröfu í COS skjölum.
+Tengist [F-3](feature.md#f-3).
