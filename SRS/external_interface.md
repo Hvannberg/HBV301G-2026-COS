@@ -6,16 +6,18 @@ Lýsing á tengingu milli hugbúnaðarkerfisins og notanda, annars hugbúnaðar,
 
 
 <a id="EI-1"></a>
-## EI-1 Tenging við launakerfi 
+## EI-1 Tenging við SAP Payroll
 
 ## 🔌 Skil
-COS skal hafa forritaskil við Payroll System. Byggir á SI-2.1 til SI-2.5 
+COS skal tengjast SAP Payroll í gegnum REST API. Er nánari skilgreining en í COS skjölum
 
 ## 📥 Inntak / úttak
-COS fær upplýsingar frá launakerfinu um skráningu og heimild starfsmanns til launafrádráttar og sendir beiðnir um greiðslu fyrir keyptar máltíðir.
+COS fær upplýsingar frá SAP Payroll um skráningu og heimild
+starfsmanns til launadráttar og sendir greiðslubeiðnir vegna
+keyptra máltíða.
 
 ## 📚 Samskipti og staðlar
-Ekki tilgreint í COS, en gæti verið SOAP og XML. 
+REST API yfir HTTPS. Gögn eru send og móttekin á JSON-sniði.
 
  ## 📌 Tegund skila
 - [ ] Notendaviðmót (User interface)
@@ -25,16 +27,16 @@ Ekki tilgreint í COS, en gæti verið SOAP og XML.
 
 
 <a id="EI-2"></a>
-## EI-2 Tenging við birgðakerfi mötuneytisins
+## EI-2 Tenging við birgðakerfi mötuneytisins, CaféStock
 
 ## 🔌 Skil
-COS skal hafa forritaskil við Cafeteria Inventory System. Byggir á SI-2.1 til SI-2.5
+COS skal hafa forritaskil við CaféStock. Hugbúnaðurinn er heimasmíðað kerfi fyrirtækisins sem heldur utan um birgðir mötuneytisins.
 
 ## 📥 Inntak / úttak
-COS fær upplýsingar frá birgðakerfinu um hvaða matvara er í boði og sendir upplýsingar um magn pantaðrar matvöru.
+COS fær upplýsingar frá CaféStock um hvaða matvara er í boði og sendir upplýsingar um magn pantaðrar matvöru.
 
 ## 📚 Samskipti og staðlar
-Ekki tilgreint í COS, en gæti verið HTTP og JSON.
+Ekki tilgreint í COS. Í þessari útfærslu er gert ráð fyrir HTTP og JSON.
 
  ## 📌 Tegund skila
 - [ ] Notendaviðmót (User interface)
