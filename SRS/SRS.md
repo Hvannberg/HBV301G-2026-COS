@@ -128,10 +128,10 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 | [C-2](constraint.md#c-2) | C-2 Oracle gagnagrunnur |
 
 ### 3.9 Ytri skil (Interfaces)
-| ID                                 | Titill                                |
-|------------------------------------|---------------------------------------|
-| [EI-1](external_interface.md#ei-1) | Tenging við launakerfi                |
-| [EI-2](external_interface.md#ei-2) | Tenging við birgðakerfi mötuneytisins |
+| ID                                 | Titill                                           |
+|------------------------------------|--------------------------------------------------|
+| [EI-1](external_interface.md#ei-1) | Tenging við SAP Payroll                          |
+| [EI-2](external_interface.md#ei-2) | Tenging við birgðakerfi mötuneytisins, CaféStock |
 
 ---
 
