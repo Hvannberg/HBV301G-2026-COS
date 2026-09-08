@@ -82,8 +82,8 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 |----------------------------------|------------------------------|-----------------------|
 | [UR-1](user_requirement.md#ur-1) | Panta máltíð til afhendingar | [F-1](feature.md#f-1) |
 | [UR-2](user_requirement.md#ur-2) | Breyta eða hætta við pöntun  | [F-1](feature.md#f-1) |
-| [UR-3](user_requirement.md#ur-3) | [Titill á notendakröfu]      | F-2                   |
-| [UR-4](user_requirement.md#ur-4) | [Titill á notendakröfu]      | F-2                   |
+| [UR-3](user_requirement.md#ur-3) | Skoða matseðil               | [F-2](feature.md#f-2) |
+| [UR-4](user_requirement.md#ur-4) | Búa til matseðil             | [F-2](feature.md#f-2) |
 | [UR-5](user_requirement.md#ur-5) | [Titill á notendakröfu]      | F-3                   |
 | [UR-6](user_requirement.md#ur-6) | [Titill á notendakröfu]      | F-3                   |
 
