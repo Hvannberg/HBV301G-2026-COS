@@ -5,39 +5,24 @@
 Lýsing á tengingu milli hugbúnaðarkerfisins og notanda, annars hugbúnaðar, vélbúnaðar eða samskiptakerfis.
 
 
-<a id="EI-1"></a>
-## EI-1 Tenging við launakerfi 
+<!--
+
+Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni 
+
+## UI-1
 
 ## 🔌 Skil
-COS skal hafa forritaskil við Payroll System. Byggir á SI-2.1 til SI-2.5 
+> Við hvern eða hvað hefur kerfið samskipti?
 
 ## 📥 Inntak / úttak
-COS fær upplýsingar frá launakerfinu um skráningu og heimild starfsmanns til launafrádráttar og sendir beiðnir um greiðslu fyrir keyptar máltíðir.
+> Hvaða gögn, skipanir eða merki fara milli kerfisins og ytri aðilans?
 
 ## 📚 Samskipti og staðlar
-Ekki tilgreint í COS, en gæti verið SOAP og XML. 
+> Hvernig fara samskiptin fram? Eru tiltekin snið, samskiptareglur eða staðlar notaðir?
 
  ## 📌 Tegund skila
-- [ ] Notendaviðmót (User interface)
-- [x] Hugbúnaðarviðmót (Software interface)
+- [x ] Notendaviðmót (User interface)
+- [ ] Hugbúnaðarviðmót (Software interface)
 - [ ] Vélbúnaðarviðmót (Hardware interface)
 - [ ] Samskiptaviðmót (Communications interface)
-
-
-<a id="EI-2"></a>
-## EI-2 Tenging við birgðakerfi mötuneytisins
-
-## 🔌 Skil
-COS skal hafa forritaskil við Cafeteria Inventory System. Byggir á SI-2.1 til SI-2.5
-
-## 📥 Inntak / úttak
-COS fær upplýsingar frá birgðakerfinu um hvaða matvara er í boði og sendir upplýsingar um magn pantaðrar matvöru.
-
-## 📚 Samskipti og staðlar
-Ekki tilgreint í COS, en gæti verið HTTP og JSON.
-
- ## 📌 Tegund skila
-- [ ] Notendaviðmót (User interface)
-- [x] Hugbúnaðarviðmót (Software interface)
-- [ ] Vélbúnaðarviðmót (Hardware interface)
-- [ ] Samskiptaviðmót (Communications interface)
+-->
