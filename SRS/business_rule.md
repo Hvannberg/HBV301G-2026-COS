@@ -16,7 +16,7 @@ Tengist við [UR-1](user_requirement.md#ur-1) Panta máltíð.  Reglan ákvarða
 
 
 <a id="brg-2"></a>
-## BRG-2 Verð pöntunar
+## BRG-2 Afhendingagluggi er 15 mínútur
 
 ## 📜 Lýsing
 Afhendingagluggi er 15 mínútur og spannar hvert korter í klukkutímanum, t.d. 10-10:15, 10:15-10:30 o.s.frv.

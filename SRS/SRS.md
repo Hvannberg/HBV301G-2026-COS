@@ -110,10 +110,10 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 | [FR-18](functional_requirement.md#fr-18) | [Virkni]                              | UR-6                             |
 
 ### 3.6 Viðskiptareglur
-| ID                              | Titill        |
-|---------------------------------|---------------|
-| [BRG-1](business_rule.md#brg-1) | Verð pöntunar |
-| [BRG-2](business_rule.md#brg-2) | Verð pöntunar |
+| ID                              | Titill                         |
+|---------------------------------|--------------------------------|
+| [BRG-1](business_rule.md#brg-1) | Verð pöntunar                  |
+| [BRG-2](business_rule.md#brg-2) | Afhendingagluggi er 15 mínútur |
 
 ### 3.7 Gæðaeiginleikar
 | ID                                      | Titill                     |
