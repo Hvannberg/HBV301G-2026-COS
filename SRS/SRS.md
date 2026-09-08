@@ -116,10 +116,10 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 | [BRG-2](business_rule.md#brg-2) | Afhendingagluggi er 15 mínútur |
 
 ### 3.7 Gæðaeiginleikar
-| ID                                      | Titill                     |
-|-----------------------------------------|----------------------------|
-| [QA-1](quality_attribute.md#qa-1)       | [Gæðaeiginleiki, titill]   |
-| [QA-2](quality_attribute.md#qa-2)       | [Gæðaeiginleiki, titill]   |
+| ID                                | Titill                                     |
+|-----------------------------------|--------------------------------------------|
+| [QA-1](quality_attribute.md#qa-1) | Öryggi við meðhöndlun viðkvæmra upplýsinga |
+| [QA-2](quality_attribute.md#qa-2) | Nothæfi                                    |
 
 ### 3.8 Takmarkanir
 | ID                       | Titill                  |
