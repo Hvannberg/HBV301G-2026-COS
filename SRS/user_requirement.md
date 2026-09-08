@@ -3,19 +3,81 @@
 
 Markmið eða verkefni sem tiltekinn notendahópur þarf að geta framkvæmt með kerfinu.
 
-<!--
 
-Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
-
-## UR-1
+## UR-1 Panta máltíð til afhendingar 
 
 ## 👤 Notandi
-> Hvaða notendategund eða hópur hefur þessa þörf?
+Starfsmaður fyrirtækis 
 
 ## 🎯 Krafa
-> Hvað þarf notandinn að geta gert?
+Starfsmaður þarf að geta skoðað matseðil, valið máltíð og pantað hana til afhendingar 
 
 ## 💬 Uppruni
-> Hvaðan kemur þessi notendaþörf, t.d. úr viðtali, athugun, eigin þekkingu á viðfangsefninu eða annarri heimild?
+Upprunin úr UC-1 Order a Meal í COS Use Cases 
+Tengist [F-1](feature.md/F-1)
 
--->
+
+## UR-2 Breyta eða hætta við pöntun
+
+## 👤 Notandi
+Starfsmaður fyrirtækis 
+
+## 🎯 Krafa
+Starfsmaður þarf að geta breytt eða hætt við pöntun áður en máltíðin hefur verið útbúin.
+
+## 💬 Uppruni
+Uppruni úr UC-2 *Change Meal Order* og UC-3 *Cancel Meal Order* í COS Use Cases 
+Tengist [F-1](feature.md/F-1).
+
+
+## UR-3 Skoða matseðil 
+
+## 👤 Notandi
+Starfsmaður fyrirtækis 
+
+## 🎯 Krafa
+Starfsmaður þarf að geta skoðað matseðil mötuneytis fyrir valinn dag.
+
+## 💬 Uppruni
+Uppruni úr UC-4 *View Menu* í COS Use cases 
+Tengist [F-2](feature.md#f-2).
+
+
+## UR-4 Búa til matseðil
+
+## 👤 Notandi
+Umsjónarmaður matseðla 
+
+## 🎯 Krafa
+Umsjónarmaður matseðla þarf að geta búið til matseðil mötuneytis fyrir tiltekinn dag.
+
+## 💬 Uppruni
+Uppruni úr UC-8 *Create a Menu* í COS Use Cases.  
+Tengist [F-2](feature.md#f-2).
+
+
+
+## UR-5 Aðgangur að COS á innraneti 
+
+## 👤 Notandi
+Starfsmaður fyrirtækis 
+
+## 🎯 Krafa
+Starfsmaður þarf að geta fengið aðgang að COS í gegnum innranet fyrirtækisins.
+
+## 💬 Uppruni
+Uppruni úr FE-6 *System Access* í COS Vision and Scope. Athugið að það er ekkert samsvarandi Use Case fyrir þessa notendakröfu í COS skjölum.
+Tengist [F-3](feature.md#f-3).
+
+
+## UR-6 Aðgangur að COS af Internetinu
+
+## 👤 Notandi
+Starfsmaður fyrirtækis
+
+## 🎯 Krafa
+Starfsmaður þarf að geta fengið aðgang að COS í gegnum Internetið utan fyrirtækisins.
+
+## 💬 Uppruni
+Uppruni úr FE-6 *System Access* í COS Vision and Scope.  Athugið að það er ekkert samsvarandi Use Case fyrir þessa notendakröfu í COS skjölum.
+Tengist [F-3](feature.md#f-3).
