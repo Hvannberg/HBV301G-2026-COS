@@ -10,7 +10,7 @@ Markmið eða verkefni sem tiltekinn notendahópur þarf að geta framkvæmt me�
 ## UR-1 Panta máltíð til afhendingar 
 
 ## 👤 Notandi
-Starfsfólk fyrirtækis 
+Starfsmaður fyrirtækis 
 
 ## 🎯 Krafa
 Starfsmaður þarf að geta skoðað matseðil, valið máltíð og pantað hana til afhendingar 

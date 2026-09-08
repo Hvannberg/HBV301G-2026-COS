@@ -80,7 +80,7 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 ### 3.4 Notendakröfur
 | ID                                   | Titill                  | Eiginleiki |
 |--------------------------------------|-------------------------|------------|
-| [UR-1](user_requirement.md#ur-1)     | [Titill á notendakröfu] | F-1        |
+| [UR-1](user_requirement.md#ur-1)     | Panta máltíð til afhendingar  |   [F-1](feature.md#f-1)       |
 | [UR-2](user_requirement.md#ur-2)     | [Titill á notendakröfu] | F-1        |
 | [UR-3](user_requirement.md#ur-3)     | [Titill á notendakröfu] | F-2        |
 | [UR-4](user_requirement.md#ur-4)     | [Titill á notendakröfu] | F-2        |
