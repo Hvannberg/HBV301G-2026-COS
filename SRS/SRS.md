@@ -122,10 +122,10 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 | [QA-2](quality_attribute.md#qa-2)       | [Gæðaeiginleiki, titill]   |
 
 ### 3.8 Takmarkanir
-| ID                              | Titill                |
-|---------------------------------|-----------------------|
-| [C-1](constraint.md#c-1)        | [Takmörkun, titill]   |
-| [C-2](constraint.md#c-2)        | [Takmörkun, titill]   |
+| ID                       | Titill                  |
+|--------------------------|-------------------------|
+| [C-1](constraint.md#c-1) | HTML 5.0 staðall        |
+| [C-2](constraint.md#c-2) | C-2 Oracle gagnagrunnur |
 
 ### 3.9 Ytri skil (Interfaces)
 | ID                                      | Titill                |
