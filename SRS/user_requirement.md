@@ -20,22 +20,21 @@ Upprunin úr UC-1 Order a Meal.
 Tengist [F-1](feature.md/F-1)
 
 
-<!--
+
 
 Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
 
-## UR-1
+## UR-2 Breyta eða hætta við pöntun
 
 ## 👤 Notandi
-> Hvaða notendategund eða hópur hefur þessa þörf?
+Starfsmaður fyrirtækis 
 
 ## 🎯 Krafa
-> Hvað þarf notandinn að geta gert?
+Starfsmaður þarf að geta breytt eða hætt við pöntun áður en máltíðin hefur verið útbúin.
 
 ## 💬 Uppruni
-> Hvaðan kemur þessi notendaþörf, t.d. úr viðtali, athugun, eigin þekkingu á viðfangsefninu eða annarri heimild?
-
--->
+Uppruni úr UC-2 *Change Meal Order* og UC-3 *Cancel Meal Order*.  
+Tengist [F-1](feature.md/F-1).
 
 <!--
 

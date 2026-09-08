@@ -71,21 +71,21 @@ næringargildi málsverða, kjarasamningar um niðurgreiðslu fæðis
 | [SR-1](system_requirement.md#sr-1) | Rafrænt pöntunar- og afgreiðsluferli máltíða |
 
 ### 3.3 Eiginleikar (Features)
-| ID                     | Titill                 |
-|------------------------|------------------------|
-| [F-1](feature.md#f-1)  | Panta og greiða fyrir máltíðir frá matseðli í mötuneyti  |
-| [F-2](feature.md#f-2)  | Búa til og skoða matseðla   |
-| [F-3](feature.md#f-3)  | Aðgangur að COS  |
+| ID                    | Titill                                                  |
+|-----------------------|---------------------------------------------------------|
+| [F-1](feature.md#f-1) | Panta og greiða fyrir máltíðir frá matseðli í mötuneyti |
+| [F-2](feature.md#f-2) | Búa til og skoða matseðla                               |
+| [F-3](feature.md#f-3) | Aðgangur að COS                                         |
 
 ### 3.4 Notendakröfur
-| ID                                   | Titill                  | Eiginleiki |
-|--------------------------------------|-------------------------|------------|
-| [UR-1](user_requirement.md#ur-1)     | Panta máltíð til afhendingar  |   [F-1](feature.md#f-1)       |
-| [UR-2](user_requirement.md#ur-2)     | [Titill á notendakröfu] | F-1        |
-| [UR-3](user_requirement.md#ur-3)     | [Titill á notendakröfu] | F-2        |
-| [UR-4](user_requirement.md#ur-4)     | [Titill á notendakröfu] | F-2        |
-| [UR-5](user_requirement.md#ur-5)     | [Titill á notendakröfu] | F-3        |
-| [UR-6](user_requirement.md#ur-6)     | [Titill á notendakröfu] | F-3        |
+| ID                               | Titill                       | Eiginleiki            |
+|----------------------------------|------------------------------|-----------------------|
+| [UR-1](user_requirement.md#ur-1) | Panta máltíð til afhendingar | [F-1](feature.md#f-1) |
+| [UR-2](user_requirement.md#ur-2) | Breyta eða hætta við pöntun  | [F-1](feature.md#f-1) |
+| [UR-3](user_requirement.md#ur-3) | [Titill á notendakröfu]      | F-2                   |
+| [UR-4](user_requirement.md#ur-4) | [Titill á notendakröfu]      | F-2                   |
+| [UR-5](user_requirement.md#ur-5) | [Titill á notendakröfu]      | F-3                   |
+| [UR-6](user_requirement.md#ur-6) | [Titill á notendakröfu]      | F-3                   |
 
 ### 3.5 Virknikröfur
 | ID                                          | Titill                                      | Notendakrafa |
