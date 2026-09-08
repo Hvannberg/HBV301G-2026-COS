@@ -2,9 +2,7 @@
 
 Lýsing á eiginleika eða gæðum sem kerfið þarf að hafa, t.d. varðandi afköst, öryggi, tiltækileika eða nothæfi.
 
-<!--
 
-Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
 <a id="qa-1"></a>
 ## QA-1 Öryggi við meðhöndlun viðkvæmra upplýsinga
 
@@ -16,7 +14,6 @@ Upprunin úr SEC-1 í COS SRS.
 Allar netsendingar sem innihalda fjárhagsupplýsingar eða persónugreinanlegar upplýsingar skulu nota 256-bita dulkóðun.
 
 
-Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
 <a id="qa-2"></a>
 ## QA-2 Nothæfi 
 
